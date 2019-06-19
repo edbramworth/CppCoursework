@@ -1,6 +1,5 @@
 # cppCoursework
-A 2D array class implemented in C++
-Was previously a coursework for my Advanced OOP module of which I scored full marks.
+A 2D array class implemented in C++ as a coursework for my Advanced OOP module in which I scored full marks.
 
 Demonstrates:
 
